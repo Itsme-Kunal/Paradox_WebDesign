@@ -1,1 +1,1 @@
-# Paradox_WebDesign
+# Paralax_WebDesign
